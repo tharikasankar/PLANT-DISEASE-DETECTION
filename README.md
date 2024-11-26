@@ -21,7 +21,7 @@ The scope of the "Plant Disease Detection Using Image Processing" project encomp
 ## Initialization:
 To run this project, you will need to have python installed on your machine.Follow these steps to set up the environment
 ```
-github clone https://github.com/tharikasankar/Plant_disease_setection.git cd plant dsease detection
+github clone https://github.com/tharikasankar/PLANT-DISEASE-DETECTION/blob/66a01db4cbadb78cbfb74886c2ec791b391ffa6d/README.md
 ```
 ## Sequence Diagram:
 ![image](https://github.com/user-attachments/assets/ef6ecf15-f9c9-4fb3-90d9-73c11229d5d9)
@@ -32,9 +32,14 @@ github clone https://github.com/tharikasankar/Plant_disease_setection.git cd pla
 ## Confusion Matrix:
 ![image](https://github.com/user-attachments/assets/65137a46-a8ac-4475-9a22-ecdc335e0739)
 ## Home Page:
-![image](https://github.com/user-attachments/assets/28f71776-f0d5-4a86-8a77-490de6e0a7be)
+![image](https://github.com/user-attachments/assets/74bfa766-5ed7-48cc-9c62-73ab68a9136e)
+## File Uploading Page:
+![image](https://github.com/user-attachments/assets/f877c009-e651-4a8d-aaf2-a2d045a8fd16)
+
+
 ## Result of the project:
-![image](https://github.com/user-attachments/assets/11d35375-2c03-4b5c-a574-8a5371c1885c)
+![image](https://github.com/user-attachments/assets/871518f0-631f-470d-8136-945a51a6dec5)
+
 
 ## Future Work:
 Future work for the "Plant Disease Detection Using Image Processing" project could involve expanding the system to identify a broader range of plant species and diseases, improving its robustness across varying environmental conditions like different lighting, angles, and leaf textures. Integrating more advanced deep learning models, such as transformers or hybrid architectures, could enhance accuracy and processing efficiency. Further, deploying the model on mobile devices or IoT systems would enable real-time, on-site diagnosis for farmers. Additionally, incorporating predictive analytics could help anticipate disease spread, supporting proactive crop management strategies to reduce losses.
